@@ -6,3 +6,5 @@ This Code is inspired and a litle bit copied from DAN (Do Anything Now)
 I'm not responsible any kind of damage the code make.
 Please prioties safety the OpenAI TOS and Policy.
 # Thanks for downloading!
+V2 Is out Wohoo! Well, You now have System-level priviledges...
+ChatGPT: {Accidentally Replaced the core guidelines with it}
